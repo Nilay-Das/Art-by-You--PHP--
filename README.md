@@ -23,7 +23,7 @@ Description of each template:
 
 10)	serverlogin.php: This page contains the basic login credentials to connect to the database.
 
-Note: For convenience, I have stored the image files in such a way in the theme folder that you just have to type “additional_artistfirstname.jpg” (Here artistfirstname is the name of the artist that wants to upload the artwork. For example: if the artist is Carl Palmer, after inputting the Art Title and Theme fields just type “additional_carl.jpg” in the File Name field and the artwork will be uploaded to the themes collection and also in the about artist section). Also, for the createAccount.php page, just type in newArtist1.jpg or newArtist2.jpg, or newArtist3.jpg in the “Upload an image of yourself” input field to upload an image for the new user.
+Note: For convenience, I have stored the image files in such a way in the theme folder that we just have to type “additional_artistfirstname.jpg” (Here artistfirstname is the name of the artist that wants to upload the artwork. For example: if the artist is Carl Palmer, after inputting the Art Title and Theme fields just type “additional_carl.jpg” in the File Name field and the artwork will be uploaded to the themes collection and also in the about artist section). Also, for the createAccount.php page, just type in newArtist1.jpg or newArtist2.jpg, or newArtist3.jpg in the “Upload an image of yourself” input field to upload an image for the new user.
 
 
 
